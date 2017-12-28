@@ -1,0 +1,16 @@
+<article class="col-md-3">
+						<a href="{{ product.url }}" class="item-product">
+							<img src="img/products/odens.png" alt="Odens">
+							<h3>{{ product.product-name }}</h3>
+							<div class="price">{{ product.price }} ₽</div>
+							<div class="stock">
+								{% if product.has_availability == true %}							
+									В наличии
+									{% else %}
+									Нет в наличии
+								{% endif %}
+							</div>
+							<div class="info"><span>{{ product.nicotine }} мг/г</span><span>{{ product.portions }} порции</span> </div>
+							<div class="more">Подробнее</div>
+						</a>
+					</article>

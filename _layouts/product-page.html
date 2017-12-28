@@ -1,0 +1,56 @@
+{% include head.html %}
+
+<body>
+
+	<div class="content">
+		{% include header.html %}
+		
+		<main class="product-page">
+			
+			<div class="container">
+				<h1>{{ page.product-name }}</h1>
+				<div class="row">
+					<div class="col-md-3 img-center">
+						<img class="product-img" src="{{ page.image }}" alt="{{ page.product-name }}">
+					</div>
+					<div class="col-md-9">
+						<strong>{% if page.has_availability == true %}							
+							В наличии
+							{% else %}
+							Нет в наличии
+							{% endif %}
+						</strong>
+
+						{{ content }}
+
+						<table class="product-table">
+							<tr>
+								<td>Содержание никотина:</td>
+								<td>{{ page.nicotine }}мг/г</td>
+							</tr>
+							<tr>
+								<td>Порций</td>
+								<td>{{ page.portions }}</td>
+							</tr>
+							<tr>
+								<td>Грамм в банке:</td>
+								<td>{{ page.gramm }}г</td>
+							</tr>
+							<tr>
+								<td>Вкус:</td>
+								<td>{{ page.taste }}</td>
+							</tr>
+							<tr>
+								<td>Вид снюса:</td>
+								<td>{{ page.form }}</td>
+							</tr>
+						</table>
+						<div class="product-price">Цена: {{page.price}} ₽</div>
+					</div>
+				</div>
+			</div>
+
+		</main>
+	</div>
+
+	{% include footer.html %}

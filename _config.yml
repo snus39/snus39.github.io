@@ -1,0 +1,35 @@
+collections:
+  products:
+    title: Products
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: products
+  values:
+    layout: product-page
+    permalink: "/:title.html"
+    title-seo: Odens Cold Dry купить в России
+    descr: Купить снюс Odens Cold Dry в России. Отправляем в Москву, СПБ и другие города России.
+    product-name: Odens Cold Dry Extreme White Portion
+    price: 500
+    image: "/img/products/odens.png"
+    has_availability: true
+    gramm: 10
+    nicotine: 22
+    portions: 13-15
+    taste: Мята
+    form: Порционный, сухой
+exclude:
+- package.json
+- gulpfile.js
+- node_modules
+- app/
+- dist/
+- Gemfile
+- Gemfile.lock
+- readme.md
+include:
+- ".htaccess"
+gems:
+    - jekyll-sitemap

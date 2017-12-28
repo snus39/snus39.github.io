@@ -1,0 +1,4 @@
+Host: https://snus39.com
+Sitemap: https://snus39.com/sitemap.xml
+
+# made: +380675680230

@@ -1,0 +1,190 @@
+@import "libs"
+
+html, body
+	height: 100%
+
+body
+	min-width: 320px
+	position: relative
+	overflow-x: hidden
+	display: flex
+	flex-direction: column
+
+ul
+	list-style-type: none
+	padding: 0
+	margin: 0
+
+a
+	transition: .3s all ease
+
+h1
+	font-size: 2rem
+
+.content
+	flex: 1 0 auto
+
+// header menu start
+.main-head
+	padding: 10px 0
+	background: #ffc341
+	a
+		text-decoration: none
+		color: #232226
+		&:hover
+			color: #fff
+
+.logo
+	font-size: 1.5rem
+	letter-spacing: 1px
+	font-weight: 600
+
+// header menu end
+
+// section header start
+.head-sect
+	padding: 7rem 0
+	background: #ffc341
+	margin-bottom: 4rem
+	.flex-center
+		display: flex
+		align-items: center
+	.cover-img
+		margin: auto
+		display: block
+		max-width: 369px
+		width: 100%
+		margin-bottom: 1rem
+	.phone
+		font-weight: 600
+		color: #232226
+		text-decoration: none
+		&:hover
+			color: #fff
+.social
+	li
+		display: inline-block
+		margin-left: 5px
+		width: 30px
+		height: 30px
+		&:first-child
+			margin-left: 0
+	a
+		&:hover
+			img
+				transform: translateY(-5px)
+	img
+		background: #fff
+		width: 100%
+		height: auto
+		transition: all .3s
+// section header end
+
+// section products start
+.products
+	text-align: center
+	margin-bottom: 2rem
+	h2
+		font-weight: 400
+		margin-bottom: 1.5rem
+	.item-product
+		display: block
+		margin-bottom: 2rem
+		color: #000
+		text-decoration: none
+		box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24)
+		&:hover
+			box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22)
+		img
+			max-width: 300px
+			width: 80%
+		h3
+			font-weight: 400
+			font-size: 1.3rem
+			height: 3rem
+		.price
+			font-weight: bold
+		.stock
+			font-size: .9rem
+		.info
+			display: flex
+			justify-content: space-around
+			padding: 7px 10px
+			background: #eee
+			font-size: .9rem
+		.more
+			background: lighten(#ffc341, 5%)
+			padding: 7px 10px
+			transition: all .5s
+			&:hover
+				background: #ef2840
+				color: #fff
+			&:active
+				background: darken(#ef2840, 10%)
+				color: #fff
+// section products end
+
+// footer start
+footer
+	flex: 0 0 auto
+	border-top: 1px solid rgba(0,0,0,.1)
+	padding: 25px 0
+	background: #343a40
+	text-align: center
+	color: #fff
+	.phone
+		color: #fff
+		font-weight: 600
+		letter-spacing: 1px
+	.bottom-line
+		margin-top: 1.5rem
+		font-size: .9rem
+		display: flex
+		justify-content: space-between
+		a
+			text-decoration: none
+			&:hover
+				color: #ffc341
+
+.heart
+	animation: heart .5s infinite alternate
+	display: inline-block
+
+@keyframes heart
+	100%
+		transform: scale(1.2)
+// footer end
+
+// product page start
+.product-page
+	padding: 2rem 0
+
+.product-img
+	width: 100%
+	max-width: 300px
+	margin-bottom: 1rem
+
+.product-table
+	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1)
+	width: 100%
+	border-radius: 5px
+	overflow: hidden
+	color: #000
+	margin-bottom: 1rem
+	tr
+		&:nth-child(2n)
+			background: #EBEBEB
+		&:hover
+			background: #4E5066
+			color: #fff
+	td
+		padding: 10px 15px
+		border: 1px solid #eee
+		text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.1)
+
+.product-price
+	font-weight: bold
+	font-size: 1.1rem
+// product page end
+
+@import "media" // Всегда в конце

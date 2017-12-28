@@ -1,0 +1,46 @@
+---
+title-seo: Купить снюс в России
+descr: Купите шведский снюс онлайн! Отправляем снюс по всей России. Находимся в Калининграде. Снюс всегда в наличии. Epok, Odens, Siberia, Thunder, Genral и другиe.
+keywords: Снюс, снюс Калининград, снюс Россия, снюс купить, snus
+title-h1: Снюс купить
+header-text: Купите снюс в нашем интернет-магазине, доставка по всей территории России. Находимся в Калининграде.
+layout: compress
+---
+
+{% include head.html %}
+<body>
+	{% include header.html %}
+	<main>		
+		<section class="head-sect">
+			<div class="container">
+				<div class="row flex-center">
+					<div class="col-lg-6">
+						<img class="cover-img" src="img/1.png" alt="Купить снюс в Калининграде c доставкой по всей России">
+					</div>
+					<div class="col-lg-6">
+						<h1>{{ page.title-h1 }}</h1>
+						<p>{{ page.header-text }}<br>Телефон: <a class="phone" href="tel:+79814775580" title="Позвонить">+79814775580</a></p>
+						<ul class="social">
+							<li><a href="//www.instagram.com/snus39/" target="_blank" title="Instagram"><img src="img/social/instagram.svg" alt="Instagram"></a></li>
+							<li><a href="//vk.com/id13137522" target="_blank" title="Вконтакте"><img src="img/social/vk.svg" alt="Вконтакте"></a></li>
+							<li><a href="#" target="_blank" title="Telegram"><img src="img/social/telegram.svg" alt="Telegram"></a></li>
+							<li><a href="viber://chat?number=+79814775580" target="_blank" title="Написать в Viber"><img src="img/social/viber.svg" alt="Viber"></a></li>
+							<li><a href="href=//api.whatsapp.com/send?phone=79814775580&text=Привет" target="_blank" title="Написать в WhatsApp"><img src="img/social/whatsapp.svg" alt="WhatsApp"></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="products">
+			<div class="container">
+				<h2>Каталог Снюса</h2>
+				<div class="row">
+					{% assign sorted_items = site.products | sort:"position" %}
+					{% for product in sorted_items %}
+					{% include item-product.html %}
+					{% endfor %}
+				</div>
+			</div>
+		</section>
+	</main>
+	{% include footer.html %}
