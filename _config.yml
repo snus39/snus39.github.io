@@ -1,6 +1,15 @@
+---
+title: Snus39.Github.Io
+timezone: UTC
 collections:
+  posts:
+    title: Posts
+    output: true
   products:
     title: Products
+    output: true
+  uploads:
+    title: Uploads
     output: true
 defaults:
 - scope:
@@ -10,7 +19,8 @@ defaults:
     layout: product-page
     permalink: "/:title.html"
     title-seo: Odens Cold Dry купить в России
-    descr: Купить снюс Odens Cold Dry в России. Отправляем в Москву, СПБ и другие города России.
+    descr: Купить снюс Odens Cold Dry в России. Отправляем в Москву, СПБ и другие
+      города России.
     product-name: Odens Cold Dry Extreme White Portion
     price: 500
     image: "/img/products/odens.png"
@@ -32,4 +42,4 @@ exclude:
 include:
 - ".htaccess"
 gems:
-    - jekyll-sitemap
+- jekyll-sitemap
