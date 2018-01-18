@@ -9,4 +9,4 @@ price: 550
 image: "/uploads/odens-cold-dry.png"
 ---
 
-Odens Cold Dry(оденс кд) самый популярный снюс в России. 
+Odens Cold Dry(оденс кд) самый популярный снюс в России. Имеет приятный вкус мяты.
