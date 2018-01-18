@@ -1,7 +1,7 @@
 <article class="col-md-3">
 						<a href="{{ product.url }}" class="item-product">
 							<img src="{{ product.image }}" alt="Odens">
-							<h3>{{ product.product-name | truncate: 20 }} </h3>
+							<h3>{{ product.product-name | truncate: 25 }} </h3>
 							<div class="price">{{ product.price }} ₽</div>
 							<div class="stock">
 								{% if product.has_availability == true %}							
