@@ -7,7 +7,7 @@ descr: Купить снюс Epok ice cool mint  в России с отправ
 product-name: Epok Ice cool mint
 price: 600
 image: "/uploads/epok-ice-cool-min.jpg"
-has_availability: false
+has_availability: true
 gramm: 16.8
 nicotine: 14
 portions: 24
