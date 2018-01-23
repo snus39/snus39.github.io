@@ -6,7 +6,7 @@ title-seo: Siberia Slim White Dry Snus купить в России
 descr: Купить снюс Siberia Slim White Dry в России с отправкой в Москву, СПБ и другие
   регионы
 product-name: Siberia Slim White Dry
-price: 650
+price: 400
 image: "/uploads/siberia-white-dry-slim.jpg"
 gramm: 13
 nicotine: 43
