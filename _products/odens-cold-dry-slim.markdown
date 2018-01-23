@@ -6,7 +6,7 @@ title-seo: Odens Extreme Slim Cold White Dry Portion Snus купить в Рос
 descr: Купить cнюс Odens Cold Dry Slim в России с отправкой в Москву, СПБ и другие
   регионы
 product-name: Odens Extreme Slim Cold White Dry
-price: 550
+price: 300
 image: "/uploads/odens-cold-dry-slim.jpg"
 portions: 16-17
 ---
