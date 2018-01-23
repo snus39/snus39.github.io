@@ -1,15 +1,15 @@
 ---
-title: Siberia Slim Serie -80 Degrees White
+title: siberia-slim-degrees
 date: 2018-01-23 10:18:00 Z
 position: 7
-title-seo: "Siberia Slim Serie -80 Degrees White\nКупить в Росси "
+title-seo: Siberia Slim Serie -80 Degrees White Купить в России
 descr: "Купить Снюс Siberia Slim Serie -80 Degrees White\nв России, отправляем в Москву,
   СПБ и другие города России "
 product-name: 'Siberia Slim Serie -80 Degrees White
 
 '
 price: 400
-image: "/uploads/5FA6B550-5181-4274-BAF6-2916D2EE20C2.png"
+image: "/uploads/siberia-slim-white.jpg"
 has_availability: false
 gramm: 15
 nicotine: 24
