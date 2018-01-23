@@ -6,7 +6,7 @@ title-seo: Odens Cold Extreme White Dry купить в России
 descr: Купить снюс Odens Cold Extreme White Dry в России. Отправляем в Москву, СПБ
   и другие регионы.
 product-name: Odens Cold Extreme White Dry
-price: 550
+price: 300
 image: "/uploads/odens-cold-dry.png"
 ---
 
