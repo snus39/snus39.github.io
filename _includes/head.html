@@ -16,7 +16,9 @@
 	<meta name="apple-mobile-web-app-title" content="snus39.com">
 	<meta name="application-name" content="snus39.com">
 
-	{% if page.url == '/' %}
+	<link rel="stylesheet" href="css/main.css">
+
+	{% if page.url == '/' or page.url == '/snus-kaliningrad.html' %}
 	<script type="application/ld+json">
 		{
 			"@context": "https://schema.org",
@@ -66,6 +68,29 @@
 				}
 			}
 			]
+		}
+	</script>
+	{% endif %}
+
+	{% if page.url == '/snus-kaliningrad.html' %}
+	<script type="application/ld+json">
+		{
+			"@context": "http://schema.org",
+			"@type": "Store",
+			"image": [
+			"https://snus39.com/img/kaliningrad/fast-food.jpg"
+			],
+			"name": "Snus39",
+			"description": "Магазин снюса в Калининграде. Забрать снюс можно в Кафе быстрого питания Doner drive.",
+			"openingHours": "Mo,Tu,We,Th,Fr,Sa,Su",
+			"telephone": "+79814775580",
+			"address":
+			{
+				"@type": "PostalAddress",
+				"streetAddress": "улица. 9 Апреля 9/2",
+				"addressLocality": "Калининград, Россия",
+				"addressCountry": "RUS"
+			}
 		}
 	</script>
 	{% endif %}
