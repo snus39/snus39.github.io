@@ -2,9 +2,9 @@
 title: siberia-brown
 date: 2018-01-18 12:55:00 Z
 position: 4
-title-seo: Siberia Brown Portion Snus купить в России
-descr: Купить снюс Siberia Brown Portion Snus в России с отправкой в Москву, СПБ и
-  другие регионы
+title-seo: Siberia Brown Portion Snus купить в  Калининграде
+descr: Купить снюс Siberia Brown Portion Snus в  Калининграде.  Отправкой в Москву,
+  СПБ и другие регионы России
 product-name: Siberia -80°C Brown Portion Snus
 price: 450
 image: "/uploads/siberia-brown.jpg"
