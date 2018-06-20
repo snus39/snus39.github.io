@@ -2,9 +2,9 @@
 title: epok-strong-mint
 date: 2018-01-18 14:13:00 Z
 position: 8
-title-seo: Epok ice cool mint купить в России
-descr: Купить снюс Epok ice cool mint  в России с отправкой в Москву, СПБ и другие
-  регионы
+title-seo: Epok ice cool mint купить в Калининграде
+descr: Купить снюс Epok ice cool mint  в Калининграде. Отправляем по всей России в
+  Москву, СПБ и другие регионы.
 product-name: Epok Ice cool mint
 price: 600
 image: "/uploads/epok-mint.png"
