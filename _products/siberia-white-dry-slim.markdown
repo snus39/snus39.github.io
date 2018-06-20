@@ -2,9 +2,9 @@
 title: siberia-white-dry-slim
 date: 2018-01-18 12:34:00 Z
 position: 5
-title-seo: Siberia Slim White Dry Snus купить в России
-descr: Купить снюс Siberia Slim White Dry в России с отправкой в Москву, СПБ и другие
-  регионы
+title-seo: Siberia Slim White Dry Snus купить в Калининграде
+descr: Купить снюс Siberia Slim White Dry в Калининграде.  Отправкой в Москву, СПБ
+  и другие регионы России
 product-name: Siberia Slim White Dry
 price: 400
 image: "/uploads/siberia-white-dry-slim.jpg"
