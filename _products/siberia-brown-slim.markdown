@@ -2,9 +2,9 @@
 title: siberia-brown-slim
 date: 2018-01-18 12:58:00 Z
 position: 3
-title-seo: Siberia -80°C Slim Brown Portion Snus купить в России
-descr: Купить снюс Siberia Slim Brown Portion Snus в России с отправкой в Москву,
-  СПБ и другие регионы
+title-seo: Siberia -80°C Slim Brown Portion Snus купить в  Калининграде
+descr: Купить снюс Siberia Slim Brown Portion Snus в  Калининграде с отправкой в Москву,
+  СПБ и другие регионы России
 product-name: Siberia -80°C Slim Brown
 price: 450
 image: "/uploads/siberia-brown-slim.jpg"
