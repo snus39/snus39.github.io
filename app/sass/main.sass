@@ -20,6 +20,7 @@ a
 
 h1
 	font-size: 2rem
+	font-weight: normal
 
 .content
 	flex: 1 0 auto
@@ -51,8 +52,8 @@ h1
 		align-items: center
 	.cover-img
 		margin: auto
-		display: block
-		max-width: 369px
+		display: inline-block
+		max-width: 220px
 		width: 100%
 		margin-bottom: 1rem
 	.phone
@@ -81,7 +82,8 @@ h1
 // section header end
 
 // section products start
-.products
+.products,
+.photo-inst
 	text-align: center
 	margin-bottom: 2rem
 	h2
@@ -123,6 +125,33 @@ h1
 				background: darken(#ef2840, 10%)
 				color: #fff
 // section products end
+
+// Section instagram start
+.photo-inst
+	img
+		width: 100%
+		margin-bottom: 1rem
+		transition: all .3s
+		&:hover
+			transform: scale(1.05)
+// Section instagram end
+
+// page kalinigrad start
+.kalin
+	margin: 2rem 0
+	img
+		width: 100%
+		margin-bottom: 1rem
+	h2
+		font-weight: normal
+		font-size: 1.3rem
+		margin-bottom: 0
+	.lead
+		margin: 0
+		font-size: 1.15rem
+
+
+// page kalinigrad end
 
 // footer start
 footer
