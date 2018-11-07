@@ -10,7 +10,7 @@ product-name: 'Siberia Slim Serie -80 Degrees White
 '
 price: 400
 image: "/uploads/siberia-slim-white.jpg"
-has_availability: false
+has_availability: true
 gramm: 15
 nicotine: 24
 portions: 20-22
