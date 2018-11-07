@@ -1,7 +1,7 @@
 ---
 title: siberia-slim-degrees
 date: 2018-01-23 10:18:00 Z
-position: 7
+position: 8
 title-seo: Siberia Slim Serie -80 Degrees White Купить в Калининграде
 descr: Купить Снюс Siberia Slim Serie -80 Degrees White в Калининграде. Отправляем
   по всей России в Москву, СПБ и другие регионы.
