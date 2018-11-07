@@ -8,7 +8,7 @@ descr: Siberia -80°C ICE COLD POWER White Portion (синяя сибирь) в 
 product-name: Siberia Ice Cold Power White Portion
 price: 400
 image: "/uploads/siberia-cold-power-white-portion.jpg"
-has_availability: false
+has_availability: true
 gramm: 15
 nicotine: 24
 portions: 16-18
