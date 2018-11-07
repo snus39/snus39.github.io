@@ -1,7 +1,7 @@
 ---
 title: siberia-brown-slim
 date: 2018-01-18 12:58:00 Z
-position: 5
+position: 6
 title-seo: Siberia -80°C Slim Brown Portion Snus купить в  Калининграде
 descr: Купить снюс Siberia Slim Brown Portion Snus в  Калининграде с отправкой в Москву,
   СПБ и другие регионы России
