@@ -1,6 +1,7 @@
 ---
 title: lyft-strong-ice-cool
 date: 2019-09-12 07:28:00 Z
+position: 1
 title-seo: Купить снюс Lyft ice cool в Калининграде
 descr: Снюс Lyft ice cool не пачкает зубы! 24 порции, крепость 14 мг, ощущается немного
   крепче. Вкус - сладкая мята.
