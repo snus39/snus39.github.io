@@ -8,7 +8,7 @@ descr: Купить снюс Epok ice cool mint  в Калининграде. О
 product-name: Epok Ice cool mint
 price: 400
 image: "/uploads/epok-mint.png"
-has_availability: true
+has_availability: false
 gramm: 16.8
 nicotine: 14
 portions: 24
