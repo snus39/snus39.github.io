@@ -1,7 +1,7 @@
 ---
 title: siberia-cold-power
 date: 2018-01-18 13:01:00 Z
-position: 7
+position: 8
 title-seo: Siberia -80°C ICE COLD POWER White Portion купить в Калининграде
 descr: Siberia -80°C ICE COLD POWER White Portion (синяя сибирь) в  Калининграде.
   Отправляем по всей России в Москву, СПБ и другие регионы.

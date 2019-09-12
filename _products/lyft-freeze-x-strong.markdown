@@ -1,6 +1,7 @@
 ---
 title: lyft-freeze-x-strong
 date: 2019-09-12 08:17:00 Z
+position: 3
 title-seo: Купить Lyft Freeze Super Strong в Калининграде
 product-name: Lyft Freeze Super Strong
 price: 400
