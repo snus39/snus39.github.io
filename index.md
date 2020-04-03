@@ -1,8 +1,8 @@
 ---
 title: index
-title-seo: 
+title-seo: Снюс купить | Купить снюс в Калининграде
 descr: 
-keywords: 
+keywords: снюс, калиниград
 title-h1: 
 layout: main-page
 ---
