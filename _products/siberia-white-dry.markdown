@@ -6,7 +6,7 @@ title-seo: Siberia -80°C Extremely Strong White Dry снюс купить в Р
 descr: Купить снюс Siberia White Dry(красная сибирь) в России с отправкой в Москву
   и СПБ
 product-name: Siberia Extremely Strong White Dry
-price: 600
+price: 450
 image: "/uploads/siberia-white-dry.png"
 gramm: 13
 nicotine: 43
