@@ -8,7 +8,7 @@ descr: Купить снюс Siberia Brown Portion Snus в России с от�
 product-name: Siberia -80°C Brown Portion Snus
 price: 500
 image: "/uploads/siberia-brown.jpg"
-has_availability: true
+has_availability: false
 gramm: 20
 nicotine: 43
 portions: 19
