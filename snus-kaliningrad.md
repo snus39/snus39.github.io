@@ -1,8 +1,9 @@
 ---
 title: snus-kaliningrad
-title-seo: 
-descr: 
-keywords: 
+title-seo: Купить снюс в Калининграде
+descr: Забрать снюс можно по адресу:/ ул.9 Апреля 9/2 (круглосуточно). Кафе быстрого
+  питания Doner drive. +79814775580
+keywords: Снюс, снюс Калининград, снюс Россия, снюс купить, snus
 layout: snus-kalin
 ---
 
