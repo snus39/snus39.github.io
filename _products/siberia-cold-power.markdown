@@ -1,7 +1,7 @@
 ---
 title: siberia-cold-power
 date: 2018-01-18 13:01:00 Z
-position: 6
+position: 7
 title-seo: Siberia -80°C ICE COLD POWER White Portion купить в России
 descr: Siberia -80°C ICE COLD POWER White Portion (синяя сибирь)
 product-name: Siberia Ice Cold Power White Portion
