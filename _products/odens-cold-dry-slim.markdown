@@ -8,7 +8,7 @@ descr: Купить cнюс Odens Cold Dry Slim в России с отправ�
 product-name: Odens Extreme Slim Cold White Dry
 price: 350
 image: "/uploads/odens-cold-dry-slim.jpg"
-has_availability: false
+has_availability: true
 portions: 16-17
 ---
 
