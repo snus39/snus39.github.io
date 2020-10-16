@@ -6,7 +6,7 @@ title-seo: Corvus Brutal снюс в Калининграде
 descr: Корвус брутал очень крепкий снюс, содержание никотина 68 мг. Не содержит табака,
   ±20 порций в банке. Пакеты зеленого цвета. Вкус мята.
 product-name: 'Corvus Brutal '
-price: 500
+price: 400
 image: "/uploads/corvus-brutal-b10b62.jpg"
 gramm: 14
 nicotine: 68
