@@ -1,0 +1,87 @@
+
+{% include head.html %}
+<body>
+	{% include header.html %}
+	<main>
+		<section class="head-sect">
+			<div class="container">
+				<div class="row flex-center">
+					<div class="col-lg-6">
+						<a href="/odens-cold-dry.html"><img class="cover-img" src="img/Odens-Cold-Exteme-White-Dry-portion.png" alt="Купить снюс в Калининграде Odens"></a>
+						<a href="/siberia-white-dry.html"><img class="cover-img" src="img/Siberia-White-Dry-portion.png" alt="Snus Siberia купить в Калининграде"></a>
+					</div>
+					<div class="col-lg-6">
+						<h1>{{ page.title-h1 }}</h1>
+						{{ content }}
+						<ul class="social">
+							<li><a href="//www.instagram.com/snus_____39/" target="_blank" title="Instagram"><img src="img/social/instagram.svg" alt="Instagram"></a></li>
+							<li><a href="//t.me/Snus039" target="_blank" title="Telegram"><img src="img/social/telegram.svg" alt="Telegram"></a></li>
+							<li><a href="//vk.com/snus039/" target="_blank" title="Вконтакте"><img src="img/social/vk.svg" alt="Вконтакте"></a></li>
+							<li><a href="viber://chat?number=%2B79520584228" target="_blank" title="Написать в Viber"><img src="img/social/viber.svg" alt="Viber"></a></li>
+							<li><a href="//api.whatsapp.com/send?phone=79520584228&text=Привет" target="_blank" title="Написать в WhatsApp"><img src="img/social/whatsapp.svg" alt="WhatsApp"></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="products">
+			<div class="container">
+				<h2>Каталог Снюса</h2>
+				<div class="row">
+					{% assign sorted_items = site.products | sort:"position" %}
+					{% for product in sorted_items %}
+					{% include item-product.html %}
+					{% endfor %}
+				</div>
+			</div>
+		</section>
+		<section class="photo-inst">
+			<div class="container">
+				<h2>Мы в Instagram</h2>
+				<div class="row">
+					<a href="//www.instagram.com/snus_____39/" class="col-md-3 col-6" title="Перейти в Instagram" target="_blank"><img src="img/inst/odens-siberia-snus-kalinigrad.jpg" alt="Снюс Калининград ассортимент"></a>
+					<a href="//www.instagram.com/snus_____39/" class="col-md-3 col-6" title="Перейти в Instagram" target="_blank"><img src="img/inst/odens-snus-kalinigrad.jpg" alt="Odens Cold Dry Калининград"></a>
+					<a href="//www.instagram.com/snus_____39/" class="col-md-3 col-6" title="Перейти в Instagram" target="_blank"><img src="img/inst/siberia-snus-kalinigrad.jpg" alt="Siberia snus Калининград"></a>
+					<a href="//www.instagram.com/snus_____39/" class="col-md-3 col-6" title="Перейти в Instagram" target="_blank"><img src="img/inst/snus-kalinigrad.jpg" alt="Снюс оптом Калининград"></a>
+				</div>
+				<a href="//www.instagram.com/snus_____39/" title="Перейти в Instagram" target="_blank">Перейти в профиль</a>
+			</div>
+		</section>
+
+		<article">
+		<div class="container">
+			<div itemscope itemtype="https://schema.org/FAQPage">
+				<h2>Частые вопросы</h2>
+				<details style="margin-bottom: 0,5rem" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+					<summary itemprop="name">Где самовывоз?</summary>
+					<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+						<div itemprop="text">
+							Улица 9 Апреля 9/2 <a href="/snus-kaliningrad.html#map">смотреть на карте</a> кафе быстрого питания: "Doner drive". <br>
+							Время работы: круглосуточно. Телефон: +79814775580
+						</div>
+					</div>
+				</details>
+				<details style="margin-bottom: 0,5rem" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+					<summary itemprop="name">Какой снюс в наличии?</summary>
+					<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+						<div itemprop="text">
+							Красная сибирь, коричневая сибирь, lyft, odens, corvus. И другие.
+						</div>
+					</div>
+				</details>
+				<details style="margin-bottom: 0,5rem" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+					<summary itemprop="name">Есть доставка по городу и области?</summary>
+					<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+						<div itemprop="text">
+							Да есть. На авто или почтой. Свяжитесь для уточнения +79814775580
+						</div>
+					</div>
+				</details>
+			</div>
+		</div>
+	</article>
+	</main>
+
+
+	
+	{% include footer.html %}
