@@ -1,4 +1,2 @@
-Host: https://snus39.com
-Sitemap: https://snus39.com/sitemap.xml
-
-# create website: +380675680230
+Host: https://snuskaliningrag.com
+Sitemap: https://snuskaliningrag.com/sitemap.xml
