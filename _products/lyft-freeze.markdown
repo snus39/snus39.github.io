@@ -1,7 +1,7 @@
 ---
 title: lyft-freeze
 date: 2020-04-24 10:45:00 Z
-position: 6
+position: 7
 title-seo: Lyft freeze x-strong купить в Калининграде
 descr: 'Литф фриз белый снюс, крепость 16 мг, но ощущается гораздо крепче. В банке
   24 порции slim. Вкус: сладкая мята.'
