@@ -6,7 +6,7 @@ title-seo: Odens Cold Dry 13 gramm купить в Калининграде
 descr: Купить снюс оденс колд драй в 13 граммовой банке в Калининграде. Есть доставка
   и самовывоз. Отправляем в регионы.
 product-name: Оденс колд драй 13 грамм
-price: 400
+price: 500
 image: "/uploads/odens-cold-dry.png"
 has_availability: true
 gramm: 13
