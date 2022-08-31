@@ -8,6 +8,7 @@ descr: Корвус брутал очень крепкий снюс, содер�
 product-name: 'Corvus Brutal '
 price: 400
 image: "/uploads/corvus-brutal-b10b62.jpg"
+has_availability: false
 gramm: 14
 nicotine: 68
 portions: "±20"
